@@ -29,6 +29,7 @@ The best example is [Associate Data Scientist in Python](https://app.datacamp.co
 ## 365 Data Science ![image](https://github.com/user-attachments/assets/b9e543be-c6ea-4e47-aa83-ecf1bd3f0ada)
 
 ![career-track-1-wide](https://github.com/user-attachments/assets/458ae3e8-5d66-42af-84fb-11970a425747)
+
 Even though there is alot of similatries compared to datacamp but there is extra skills that it teaches and retaking some skills for the certificate is worth it [Data Scientist](https://learn.365datascience.com/career-tracks/data-scientist/). there is 2 elective classes while I opted for "The Complete Data Visualization" and "SQL + Tableu + Python" you can pick anything from 35 extra elective classes for no extra charge. A super and when i mean super i mean it, you can also pick another course from their which is [Financial Analyst](https://learn.365financialanalyst.com/career-tracks/financial-analyst/?preview=1) which will help in the demand of strong accounting, financial forecasting, analysis, and reporting abilities. Which you wont really need some of them but these extra skills may make you look better candidate.
 
 
