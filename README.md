@@ -6,13 +6,13 @@ All of this will be assuming that you can spend a bit of money on the courses he
 2. SQL
 3. Tableu OR PowerBI
 4. Mathematics
-   a. Linear Algebra
-   b. Statistics
-   c. Probability
+a. Linear Algebra
+b. Statistics
+c. Probability
 5. Data Visualization
 6. Machine Learing
-   a.Linear Regression
-   b. Tenserflow Deep Learning
+a.Linear Regression
+b. Tenserflow Deep Learning
 7. Intergrating all Programming Skills
 
 ***
