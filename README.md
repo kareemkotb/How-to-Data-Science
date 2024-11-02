@@ -24,6 +24,7 @@ A common misconception is that the course needs to be long for it to be usefull 
 
 The important thing about finding the perfect course is finding the majority of technical skills that are needed under one roof. 
 The best example is [Associate Data Scientist in Python](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python), in 90 hours you will learn and good portion of the technical skills, but to complete the last course from Datacamp we will want [Data Scientist in Python](https://app.datacamp.com/learn/career-tracks/data-scientist-in-python) and in 26 hours we will get SQL and a bit of Machine Learning. For $13 per month learning the majority of the skills is very worth it
-
+## 365 Data Science
+![career-track-1-wide](https://github.com/user-attachments/assets/458ae3e8-5d66-42af-84fb-11970a425747)
 
 
