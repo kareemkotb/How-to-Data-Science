@@ -32,6 +32,8 @@ The best example is [Associate Data Scientist in Python](https://app.datacamp.co
 
 Even though there is alot of similatries compared to datacamp but there is extra skills that it teaches and retaking some skills for the certificate is worth it [Data Scientist](https://learn.365datascience.com/career-tracks/data-scientist/). there is 2 elective classes while I opted for "The Complete Data Visualization" and "SQL + Tableu + Python" you can pick anything from 35 extra elective classes for no extra charge. A super and when i mean super i mean it, you can also pick another course from their which is [Financial Analyst](https://learn.365financialanalyst.com/career-tracks/financial-analyst/?preview=1) which will help in the demand of strong accounting, financial forecasting, analysis, and reporting abilities. Which you wont really need some of them but these extra skills may make you look better candidate.
 
+***
+
 Now the most important thing, Projects
 I split projects into 2 types, Mini Projects and Meta Projects:
 Mini Projects are small projects that are simple to create and usually has a singular purpose and/or function
