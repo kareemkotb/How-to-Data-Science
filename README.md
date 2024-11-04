@@ -42,8 +42,18 @@ I split projects into 2 types, Mini Projects and Meta Projects:
 Secondly the projects are split into 2 Catogories:
 - Technical Skills
 - Industry
-  - w
-  - ds  
+  - Healthcare
+  - Sports
+  - Oil and Gas
+  - Big Tech
+  - Esports
+  - Insurance
+  - Telecom
+  - Cybersecurity
+  - Retails
+ Picking one techincal Skill for one industry will make a good/unique Mini Project for you.
+Later on you should combine multiple Mini Projects for a certain goal and Industry
+  
 
  
 
