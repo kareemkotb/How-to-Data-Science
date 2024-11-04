@@ -36,8 +36,8 @@ Even though there is alot of similatries compared to datacamp but there is extra
 
 Now the most important thing, Projects
 I split projects into 2 types, Mini Projects and Meta Projects:
-Mini Projects are small projects that are simple to create and usually has a singular purpose and/or function
-Meta Projects usually combine Mini Projects together with integration from different programming languages
+- Mini Projects are small projects that are simple to create and usually has a singular purpose and/or function
+- Meta Projects usually combine Mini Projects together with integration from different programming languages
 
 
  
