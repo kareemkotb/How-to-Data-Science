@@ -51,7 +51,8 @@ Secondly the projects are split into 2 Catogories:
   - Telecom
   - Cybersecurity
   - Retails
- Picking one techincal Skill for one industry will make a good/unique Mini Project for you.
+
+Picking one techincal Skill for one industry will make a good/unique Mini Project for you.
 Later on you should combine multiple Mini Projects for a certain goal and Industry
   
 
