@@ -39,6 +39,11 @@ I split projects into 2 types, Mini Projects and Meta Projects:
 - Mini Projects are small projects that are simple to create and usually has a singular purpose and/or function
 - Meta Projects usually combine Mini Projects together with integration from different programming languages
 
+Secondly the projects are split into 2 Catogories:
+- Technical Skills
+- Industry
+  - w
+  - ds  
 
  
 
