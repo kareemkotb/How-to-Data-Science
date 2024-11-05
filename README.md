@@ -1,13 +1,8 @@
 # How-to-Data-Science
 The road map to learn data science without going to univeristy
 ***
-Using [Data Science OSSU](https://github.com/ossu/data-science?tab=readme-ov-file) as a base we will need to make sure the selected courses can cover everything listed in OSSU and if a specific course isnt listed inside of our chosen course then we can find some online for it.
-#### Mathematics
-### Statistics / Probability
-- Descriptive Statistics
-- Inferential Statistics
-### Linear Algebra
-- Linear Algebra
+Using [Data Science OSSU](https://github.com/ossu/data-science?tab=readme-ov-file) as a base we will need to make sure the selected courses can cover everything listed in OSSU and if a specific course isnt listed inside of our chosen course then we can find some online for it. For the following the coming tags will be used: 
+(D = Only Datacamp, 365 = Only 365 Data science, E = External, C = Combination of Datacamp and 365 Data Science
 
 
 ***
