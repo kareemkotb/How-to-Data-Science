@@ -4,7 +4,7 @@ The road map to learn data science without going to univeristy
 Using [Data Science OSSU](https://github.com/ossu/data-science?tab=readme-ov-file) as a base we will need to make sure the selected courses can cover everything listed in OSSU and if a specific course isnt listed inside of our chosen course then we can find some online for it.
 #### Mathematics
 ### Statistics 
-- ![image](https://github.com/user-attachments/assets/f157c593-b54b-4283-8f99-328ea1bc1693|100) Descriptive Statistics
+- ![image](https://github.com/user-attachments/assets/f157c593-b54b-4283-8f99-328ea1bc1693 | width=100) Descriptive Statistics
 
 
 ***
