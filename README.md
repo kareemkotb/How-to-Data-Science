@@ -1,19 +1,7 @@
 # How-to-Data-Science
 The road map to learn data science without going to univeristy
 ***
-All of this will be assuming that you can spend a bit of money on the courses here and there. First of all is detetmine which techincal skills are needed for data science
-1. Python
-2. SQL
-3. Tableu OR PowerBI
-4. Mathematics
-- Linear Algebra
-- Statistics
-- Probability
-5. Data Visualization
-6. Machine Learing
-- Linear Regression
-- Tenserflow Deep Learning
-7. Intergrating all Programming Skills
+Using [Data Science OSSU](https://github.com/ossu/data-science?tab=readme-ov-file) as a base we will need to make sure the selected courses can cover everything listed in OSSU and if a specific course isnt listed inside of our chosen course then we can find some online for it.
 
 ***
 
