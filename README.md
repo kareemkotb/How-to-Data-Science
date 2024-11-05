@@ -9,7 +9,7 @@ Using [Data Science OSSU](https://github.com/ossu/data-science?tab=readme-ov-fil
 ## Mathematics
 - Statistics & Probability -> 365
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) -> M
-- Single Variable Calculus -> E
+- [Single Variable Calculus](https://www.khanacademy.org/math/ap-calculus-bc) -> E
   - Differentiation
   - Integration
   - Coordinate Systems & Infinite Series
