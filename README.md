@@ -14,7 +14,13 @@ Using [Data Science OSSU](https://github.com/ossu/data-science?tab=readme-ov-fil
   - Integration
   - Coordinate Systems & Infinite Series
 - [Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) -> E
--  
+## Databases
+- [Database Management Essentials](https://www.coursera.org/learn/database-management) -> E
+- [MongoDB Python Developer Path](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path) --> E
+## Machine Learning 
+- Machine Learning Scientist in Python -> D
+
+
        
 
  
@@ -28,7 +34,7 @@ A common misconception is that the course needs to be long for it to be usefull 
 
 
 The important thing about finding the perfect course is finding the majority of technical skills that are needed under one roof. 
-The best example is [Associate Data Scientist in Python](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python), in 90 hours you will learn and good portion of the technical skills, but to complete the last course from Datacamp we will want [Data Scientist in Python](https://app.datacamp.com/learn/career-tracks/data-scientist-in-python) and in 26 hours we will get SQL and a bit of Machine Learning. For $13 per month learning the majority of the skills is very worth it.
+The best example is [Associate Data Scientist in Python](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python), in 90 hours you will learn and good portion of the technical skills, but to complete the last course from Datacamp we will want [Data Scientist in Python](https://app.datacamp.com/learn/career-tracks/data-scientist-in-python) and in 26 hours we will get SQL and a bit of Machine Learning, but we will need Machine Learning for data science so we will get this course as well [Machine Learning Scientist in Python](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python).For $13 per month learning the majority of the skills is very worth it. 
 
 ## 365 Data Science ![image](https://github.com/user-attachments/assets/b9e543be-c6ea-4e47-aa83-ecf1bd3f0ada)
 
