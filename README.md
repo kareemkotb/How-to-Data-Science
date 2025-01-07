@@ -30,10 +30,26 @@ Industries matter alot, mainly because 1) Which project you will need to work on
 For more information you can read here [The Best Industries for Data Science Specialists in 2024](https://365datascience.com/career-advice/the-best-industries-for-data-science-specialists/)
 
 ### Skills to Gain
-I will mention the sources needed later with their links but here are all the Skills you need
+I will mention the sources needed later with their links but here are all the Skills you need, Some will be free and some wont but its way cheaper than university
 1. Mathematics
 2. Python / R
 3. Machine Learning
 4. Databases
 5. Visualization
 
+# Skills
+## Mathematics
+For Math we will need:
+1. Algebra --> [College Algebra](https://www.khanacademy.org/math/college-algebra)
+2. Statistics and Probability --> [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
+3. Calculus --> [AP®︎/College Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
+
+![image](https://github.com/user-attachments/assets/4c4bb84b-cfca-4c41-a0e4-847fe4a37057)
+
+Having all the units Mastered shows you understand everything + its AP Mathematics so they are high enough level to be able to work on projects without being confused all the time
+
+For all 3 we will be using Khan Academy, why , well its simple its free and it has a mastery system. For the mastery system its important to be able to see your progress overtime which will cause to stick as u can see your progress and might be a source of motivation
+
+
+
+F
