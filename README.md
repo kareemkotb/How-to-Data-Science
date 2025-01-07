@@ -36,9 +36,13 @@ I will mention the sources needed later with their links but here are all the Sk
 3. Machine Learning
 4. Databases
 5. Visualization
+6. Github
+
+### Order to Learn
+Mathemetics > Machine Learning > Python > Databases > Visualization > Github
 
 # Skills
-## Mathematics
+### Mathematics
 For Math we will need:
 1. Algebra --> [College Algebra](https://www.khanacademy.org/math/college-algebra)
 2. Statistics and Probability --> [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
@@ -46,10 +50,22 @@ For Math we will need:
 
 ![image](https://github.com/user-attachments/assets/4c4bb84b-cfca-4c41-a0e4-847fe4a37057)
 
-Having all the units Mastered shows you understand everything + its AP Mathematics so they are high enough level to be able to work on projects without being confused all the time
-
 For all 3 we will be using Khan Academy, why , well its simple its free and it has a mastery system. For the mastery system its important to be able to see your progress overtime which will cause to stick as u can see your progress and might be a source of motivation
 
+Having all the units Mastered shows you understand everything + its AP Mathematics so they are high enough level to be able to work on projects without being confused all the time
+
+### Machine Learning
+We will be doing [Machine Learning Specialization | Coursera ](https://www.coursera.org/specializations/machine-learning-introduction)
+
+What will you learn
+- Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
+- Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods
+- Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection
+
+Andrew Ng is really good and experienced Teacher and machine learner, This course Should max 2-3 Month
+
+### Python VS R
+While Python and R were created with different purposes –Python as a general-purpose programming language and R for statistical analysis–nowadays, both are suitable for any data science task. However, Python is considered a more versatile programming language than R, as it’s also extremely popular in other software domains, such as software development, web development, and gaming. Because of the learning curve of python (Its Easy) we will be doing python but if you decide to learn python you can read for Alot of comparison between them both [Python vs R for Data Science: Which Should You Learn?](https://www.datacamp.com/blog/python-vs-r-for-data-science-whats-the-difference) But i highly Highly Highly recommended learning Python for 2 reasons 1) Works best from experience with learn order 2) More Job Opportunities 
 
 
-F
+
