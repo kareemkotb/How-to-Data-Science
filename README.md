@@ -76,9 +76,23 @@ We will be doing both ( all from Datacamp ( and if you got the Github Student Pa
 1. [Associate Data Scientist in Python](https://www.coursera.org/specializations/machine-learning-introduction) OR [Associate Data Scientist in R](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-r)
 2. [Data Scientist in Python](https://app.datacamp.com/learn/career-tracks/data-scientist-in-python) OR [Data Scientist in R](https://app.datacamp.com/learn/career-tracks/data-scientist-in-r)
 
-Then we will either the first or both if u want
+Then we will either do the first or both if u want
 1. [Data Scientist Associate Certification](https://app.datacamp.com/certification/get-started/associate-data-scientist/overview)
 2. [Data Scientist Certification](https://app.datacamp.com/certification/get-started/data-scientist/overview)
+
+Ok why these 2 sets, well the first 2 are the courses teaching alot of skills and the second one certifcate which is basically a piece of paper saying you know your stuff
+
+### Databases
+Now we have 2 types of databases SQL and NOSql and if i go around explaining the difference we will be here till tommorrow but if you want to dive in [SQL vs. NoSQL](https://www.coursera.org/articles/nosql-vs-sql) AND [MongoDB vs SQL](https://intellipaat.com/blog/mongodb-vs-sql/#:~:text=In%20comparison%20to%20the%20SQL,of%20data%2C%20however%20MongoDB%20does.)
+
+
+For SQL we will be learning MySQL and will learn it from [MySQL Tutorial](https://www.w3schools.com/mysql/default.asp)
+
+For noSQL we will learn MongoDB using our Github Student Pack we will do [MongoDB Python Developer Path](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path)
+
+
+our exam for MongoDB will be [MongoDB Associate Developer Exam](https://learn.mongodb.com/pages/mongodb-associate-developer-exam)
+
 
 
 
