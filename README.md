@@ -3,7 +3,7 @@
 ![Gitea Last Commit](https://img.shields.io/gitea/last-commit/kareemkotb/How%20to%20Data%20Science)
 
 ***
-Hello, Im Kareem a Business Information System Student (or maybe a ex-student 🤷) and I want to become a Data Scientist. One of the major problems I have encountered was not a clear guidelines and tips to help me on the journey, as there is no one course you could take to become ready as a Data Scientit so I have decided to do it myself.
+Hello, Im Kareem a Business Information System Student (or maybe a ex-student 🤷) and I want to become a Data Scientist. One of the major problems I have encountered was not a clear guidelines and tips to help me on the journey, as there is no one course you could take to become ready as a Data Scientist so I have decided to do it myself.
 I hope this is Helpful
 
 # Basic Information
@@ -64,8 +64,26 @@ What will you learn
 
 Andrew Ng is really good and experienced Teacher and machine learner, This course Should max 2-3 Month
 
+If you decided on picking R then you can do this [Machine Learning Scientist in R | Datacamp](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-r)
+
+
 ### Python VS R
 While Python and R were created with different purposes –Python as a general-purpose programming language and R for statistical analysis–nowadays, both are suitable for any data science task. However, Python is considered a more versatile programming language than R, as it’s also extremely popular in other software domains, such as software development, web development, and gaming. Because of the learning curve of python (Its Easy) we will be doing python but if you decide to learn python you can read for Alot of comparison between them both [Python vs R for Data Science: Which Should You Learn?](https://www.datacamp.com/blog/python-vs-r-for-data-science-whats-the-difference) But i highly Highly Highly recommended learning Python for 2 reasons 1) Works best from experience with learn order 2) More Job Opportunities 
+
+Now the Programming part starts, you WILL need to apply to [GitHub Student Developer Pack](https://education.github.com/pack/) if you are a student, as it will give u access to alot of things even stuff that isnt related to Data Science/Data Analysis
+
+We will be doing both ( all from Datacamp ( and if you got the Github Student Pack you have 3 month free))
+1. [Associate Data Scientist in Python](https://www.coursera.org/specializations/machine-learning-introduction) OR [Associate Data Scientist in R](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-r)
+2. [Data Scientist in Python](https://app.datacamp.com/learn/career-tracks/data-scientist-in-python) OR [Data Scientist in R](https://app.datacamp.com/learn/career-tracks/data-scientist-in-r)
+
+Then we will either the first or both if u want
+1. [Data Scientist Associate Certification](https://app.datacamp.com/certification/get-started/associate-data-scientist/overview)
+2. [Data Scientist Certification](https://app.datacamp.com/certification/get-started/data-scientist/overview)
+
+
+
+
+ 
 
 
 
