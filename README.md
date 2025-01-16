@@ -94,8 +94,12 @@ For noSQL we will learn MongoDB using our Github Student Pack we will do [MongoD
 our exam for MongoDB will be [MongoDB Associate Developer Exam](https://learn.mongodb.com/pages/mongodb-associate-developer-exam)
 
 
+### Visualizatin Tools
+Finally we will go with Tableau over PowerBI and you can read more about it here [Power BI vs. Tableau: Which is The Better Business Intelligence Tool in 2024?](https://www.datacamp.com/blog/power-bi-vs-tableau-which-one-should-you-choose)
 
-
+and finally the last course will be [Tableau Fundamentals](https://www.datacamp.com/tracks/tableau-fundamentals)
+***
+Whats left now is doing projects that are related to the industry you want to join for example if you want to join as a data scientist in the healthcare industry then having projects about healthcare will be more beneficial to you.
 
  
 
