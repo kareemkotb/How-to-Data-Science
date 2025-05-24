@@ -39,7 +39,8 @@ For more information you can read here [The Best Industries for Data Science Spe
 - [ ] [Practical statistics for data scientists: 50 essential concepts](https://libgen.is/book/index.php?md5=DE0757C1F07F714EE8689900B5D74B6F) or [Buy](https://printrado.com/product/practical-statistics-for-data-scientists/)
 - [ ] [Mathematics for Machine Learning](https://libgen.is/book/index.php?md5=9F54F0970D1B181EAF21529C1F47A8E3) or [Buy](https://printrado.com/product/mathematics-for-machine-learning/) AND 	[Mathematics for Machine Learning.. Solution manual](https://libgen.is/book/index.php?md5=EF5F5B11A3F2185609D612A3EA3272CC)
 
-## Coding
+## Coding - Python
+-[ ]  
 
 
 
