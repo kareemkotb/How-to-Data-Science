@@ -3,7 +3,7 @@
 ![Gitea Last Commit](https://img.shields.io/gitea/last-commit/kareemkotb/How%20to%20Data%20Science)
 
 ***
-Hello, Im Kareem a Business Information System Student (or maybe a ex-student 🤷) and I want to become a Data Scientist. One of the major problems I have encountered was not a clear guidelines and tips to help me on the journey, as there is no one course you could take to become ready as a Data Scientist so I have decided to do it myself. This README will be a timeline / Roadmap for many people to see, from recruiters to other inspiring students
+Hello, Im Kareem a Business Information System Student (or Graduate) and I want to become a Data Scientist. One of the major problems I have encountered was not a clear guidelines and tips to help me on the journey, as there is no one course you could take to become ready as a Data Scientist so I have decided to do it myself. This README will be a timeline / Roadmap for many people to see, from recruiters to other inspiring students
 I hope this is Helpful.
 
 # Programming
