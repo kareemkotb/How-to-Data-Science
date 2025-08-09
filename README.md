@@ -4,7 +4,19 @@
 
 ***
 Hello, Im Kareem a Business Information System Student (or maybe a ex-student 🤷) and I want to become a Data Scientist. One of the major problems I have encountered was not a clear guidelines and tips to help me on the journey, as there is no one course you could take to become ready as a Data Scientist so I have decided to do it myself. This README will be a timeline / Roadmap for many people to see, from recruiters to other inspiring students
-I hope this is Helpful
+I hope this is Helpful.
+
+# Programming
+Source: Codedex.io
+Skills Learned
+  - Basic / Intermediate Python
+  - NumPy
+  - SQL
+  - GEN AI
+  - Git & Github
+  - Data Structures and Algorithms
+
+### Basic / Intermediate Python
 
 
 
