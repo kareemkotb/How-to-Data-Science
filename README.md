@@ -7,7 +7,7 @@ Hello, Im Kareem a Business Information System Student (or Graduate) and I want 
 I hope this is Helpful.
 
 # Programming
-Source: **Codedex.io** --> [Profile](https://www.codedex.io/@Kreamy)
+Source: **Codedex.io** -> [Profile](https://www.codedex.io/@Kreamy)
 
 Skills Learned
   - Basic / Intermediate Python
