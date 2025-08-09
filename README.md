@@ -7,7 +7,8 @@ Hello, Im Kareem a Business Information System Student (or maybe a ex-student ðŸ
 I hope this is Helpful.
 
 # Programming
-Source: Codedex.io
+Source: **Codedex.io**
+
 Skills Learned
   - Basic / Intermediate Python
   - NumPy
