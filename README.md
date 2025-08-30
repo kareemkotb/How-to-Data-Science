@@ -6,7 +6,7 @@
 Hello, Im Kareem a Business Information System Student (or Graduate) and I want to become a Data Scientist. One of the major problems I have encountered was not a clear guidelines and tips to help me on the journey, as there is no one course you could take to become ready as a Data Scientist so I have decided to do it myself. This README will be a timeline / Roadmap for many people to see, from recruiters to other inspiring students
 I hope this is Helpful.
 
-# Programming
+# Programming - Part I
 Source: **Codedex.io** → [Profile](https://www.codedex.io/@Kreamy)
 
 Skills Learned
@@ -39,6 +39,9 @@ Skills Learned
 - Testing
 
 <img width="361" height="298" alt="image" src="https://github.com/user-attachments/assets/c4472b6c-291a-443e-a874-f5ceb9ff13ac" />
+
+# Programming - Part II
+Source: **Data Analysis with Python - IBM** → [Link](https://www.coursera.org/learn/data-analysis-with-python)
 
 
 
