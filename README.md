@@ -43,6 +43,11 @@ Skills Learned
 # Programming - Part II
 Source: **Data Analysis with Python - IBM** → [Link](https://www.coursera.org/learn/data-analysis-with-python)
 
+<img width="1381" height="562" alt="image" src="https://github.com/user-attachments/assets/5144985a-dd1d-4727-b900-ae4d390f71d2" />
 
-
+**Learned**
+- MatplotLib
+- Scikit Learn
+- NumPy
+- Pandas
 
