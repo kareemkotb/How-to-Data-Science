@@ -30,8 +30,15 @@ Skills Learned
 - Class and Objects
 - Modules
 
+<img width="365" height="306" alt="image" src="https://github.com/user-attachments/assets/56080d52-1a23-4e2f-b863-e95fed52e20d" />
 
+**Learned**
+- Data Structures
+- File I/O
+- Funcitional Programming
+- Testing
 
+  
 
 
 
