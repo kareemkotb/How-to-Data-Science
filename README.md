@@ -7,7 +7,10 @@ Hello, Im Kareem a Business Information System Student (or Graduate) and I want 
 I hope this is Helpful.
 
 ----------------------------------
-
+|
+|
+|
+|
 
 
 # Programming - Part I
