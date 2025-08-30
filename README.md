@@ -38,7 +38,8 @@ Skills Learned
 - Funcitional Programming
 - Testing
 
-  
+<img width="361" height="298" alt="image" src="https://github.com/user-attachments/assets/c4472b6c-291a-443e-a874-f5ceb9ff13ac" />
+
 
 
 
