@@ -19,6 +19,15 @@ Skills Learned
 
 ### Basic / Intermediate Python
 
+<img width="369" height="311" alt="image" src="https://github.com/user-attachments/assets/cab99b83-8c79-47cd-9a23-818eaad22850" />
+**Learned** 
+- Variables
+- Loops
+- Controll Flow
+- Lists
+- Functions
+- Class and Objects
+- Modules
 
 
 
